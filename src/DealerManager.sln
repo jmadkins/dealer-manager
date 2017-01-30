@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealerManager", "DealerManager\DealerManager.csproj", "{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://adkinssd.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DealerManager\\DealerManager.csproj
+		SccProjectName1 = DealerManager
+		SccLocalPath1 = DealerManager
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB7FAD7-0497-4D8C-9C91-94614BE7604F}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

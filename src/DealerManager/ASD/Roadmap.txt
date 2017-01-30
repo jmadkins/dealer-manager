@@ -1,0 +1,25 @@
+﻿Adkins Software Development
+Dealer Manager Roadmap
+===========================
+Version 1.0
+===========================
+
+TASK NAME			STATUS					
+===========================
+Inventory			70%
+	- Ability to add pictures of vehicles
+	- 
+Customers			90%
+	- 
+Employees			90%
+	- 
+Deals				10%
+	- Ya...
+Reports				5%
+	- CREATE THEM!
+System Codes		40%
+	- Backup/Restore database
+	- Reset application to defaults
+	- Link buttons to forms in inventory tab
+Polish				N/A
+	- 

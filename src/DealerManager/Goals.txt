@@ -1,0 +1,24 @@
+﻿Adkins Software Development
+Dealer Manager Goals
+===========================
+
+MS		Version		Goal
+===========================
+Alpha	0.2			All modules complete
+		0.3			Most reports created
+		0.4			?
+Beta	0.5			All reports created
+		0.6			?
+		0.7			?
+RC		0.8			?
+		0.9			Bugs fixed and UI polished
+
+Modules
+===========================
+Customers [CUS] - Manage all of your customers
+Inventory [INV] - Manage vehicles that you have for sale
+Deals [DEL] - Manage sales of inventory
+BHPH [BPH] - Manage Buy Here Pay Here accounts							***LATER
+Test Drive [TSD] - Manage people who come in to test drive vehicles		***LATER
+Service [SER] - Manage vehicles that come in for repair service			***LATER
+Temporary Tag [TTG] - Manage purchasing and selling of Temporary Tags	***LATER

@@ -1,0 +1,85 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DealerManager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="app_name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Dealer Manager</Value>
+    </Setting>
+    <Setting Name="app_version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0.2.17.70</Value>
+    </Setting>
+    <Setting Name="app_licensedComany" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Adkins Software Development</Value>
+    </Setting>
+    <Setting Name="app_licensedUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Dealer Manager AppTester</Value>
+    </Setting>
+    <Setting Name="app_milestone" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">alpha2</Value>
+    </Setting>
+    <Setting Name="app_buildString" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_connectedUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_connectedUserProfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_versionFriendly" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Metro</Value>
+    </Setting>
+    <Setting Name="app_prerelease" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="app_maxPasswordAttempts" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="DMConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=|DataDirectory|\Data\DM.sdf&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;Microsoft.SqlServerCe.Client.4.0&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=|DataDirectory|\Data\DM.sdf</Value>
+    </Setting>
+    <Setting Name="cus_lastcustomer" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_databaseversion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0.2.1.2</Value>
+    </Setting>
+    <Setting Name="app_buildDate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">130513.2000</Value>
+    </Setting>
+    <Setting Name="app_autodata" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="app_backgroundUpdates" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="app_connectedUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_productionStatus" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Development</Value>
+    </Setting>
+    <Setting Name="app_connectedUserID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app_ConnectedUserCompany" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="usr_displayModule" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customers
+Inventory
+Deals</Value>
+    </Setting>
+    <Setting Name="app_connectedUserCompanyID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
